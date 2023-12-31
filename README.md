@@ -7,5 +7,5 @@ When running the script, it will ask for the duration of the excerpt (default = 
 * Interface > Main interface > Check [Web]
 * Interface > Main interface > Lua > Define Lua HTTP Password
 * Open http://localhost:8080/ in web browser, leave the username empty and type the password defined in the previous step
-* Paste the contents from vlc-random-seek.js in the console and hit ENTER.
+* Paste the contents from [vlc-random-seek.js](https://github.com/mateusviccari/VLC-Random-Seek/blob/main/vlc-random-seek.js) in the console and hit ENTER.
 * Done
